@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hi7isT红包</string>
+    <string name="des">启动抢红包服务，支持微信</string>
+
+    <string name="about_content">本软件仅供学习使用，完全模拟人工操作，抢红包速度取决于你手机的性能和网络，不涉及任何第三方接口，本软件无病毒、不收集用户隐私信息，禁止使用本软件参与赌博活动。一切因使用&quot;hi7isT红包&quot;造成的任何后果，hi7isT红包概不负责，亦不承担任何法律责任!</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/openFz"
+        android:title="打开辅助服务"/>
+
+    <item android:id="@+id/openTzl"
+        android:title="打开通知栏服务"/>
+
+    <!--<item android:id="@+id/about"-->
+        <!--android:title="关于hi7isT抢红包"/>-->
+
+</menu>
